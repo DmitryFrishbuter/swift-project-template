@@ -32,7 +32,7 @@
    
    Carthage is used as dependency manager by default.
     
-2. Run `cookiecutter gh:artemnovichkov/swift-project-template`. No need to create project folder manually, cookiecutter does it for you.
+2. Run `cookiecutter gh:dmitryfrishbuter/swift-project-template`. No need to create project folder manually, cookiecutter does it for you.
 
 For future runs you can shorten the command to `cookiecutter swift-project-template`. However, if you want to use the most recent template you should still run the full command above. Or just create an alias:
 ```bash
